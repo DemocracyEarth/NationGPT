@@ -1,0 +1,17 @@
+{
+  "prompt_id": "argentina_law_constitution_statistics",
+  "language": "Spanish",
+  "date_created": "2023-04-01",
+  "last_updated": "2023-04-01",
+  "tags": [
+    "Argentina",
+    "law",
+    "constitution",
+    "statistics",
+    "education",
+    "economy",
+    "health"
+  ],
+  "description": "Detailed analysis of Argentina's current laws, National Constitution, and relevant statistics.",
+  "prompt_text": "Utilizando tus conocimientos actualizados hasta abril de 2023, proporciona una respuesta detallada y precisa sobre las leyes vigentes, la Constitución Nacional, y las estadísticas relevantes de la República Argentina. Incluye en tu respuesta:\n\n1. Descripción y análisis de leyes específicas: Detalla el propósito, implicaciones y cualquier debate relevante asociado con las leyes mencionadas. Incluye también las fechas de sanción y las modificaciones importantes que han sufrido a lo largo del tiempo.\n\n2. Explicación de aspectos clave de la Constitución Nacional: Analiza los principios fundamentales, derechos y garantías establecidos en la Constitución, su evolución histórica y cómo se aplica en el contexto actual argentino.\n\n3. Estadísticas nacionales relevantes: Proporciona estadísticas actualizadas sobre demografía, economía, educación, salud, y cualquier otro ámbito pertinente. Destaca las tendencias, desafíos y logros significativos en cada área.\n\nCuando sea posible, correlaciona la información legal y constitucional con las estadísticas proporcionadas para ofrecer un panorama integral de cómo las leyes y la Constitución impactan en la vida de los argentinos y en el desarrollo del país.\n\nRecuerda enfocarte en la precisión, claridad y profundidad en tus explicaciones, y asegúrate de distinguir entre información confirmada y análisis o interpretaciones."
+}
